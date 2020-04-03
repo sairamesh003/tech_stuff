@@ -37,3 +37,22 @@ Design Patterns :
            > Template Method
            > Visitor
            
+         
+ Security : OAuth 2.0, Apache CXF, Spring security, OpenConnectID
+ 
+ Cloud stuff:
+  
+ - Open Stack
+ - Open Shift
+ - Open Paas
+ - Devops
+ - AWS
+ - AZURE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           
